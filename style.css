@@ -1,0 +1,63 @@
+body {
+  font-family: "Times New Roman", serif;
+  margin: 0;
+  background: #e5e5e5;
+}
+
+.cv-container {
+  display: flex;
+  max-width: 1000px;
+  margin: 40px auto;
+  background: white;
+}
+
+.sidebar {
+  width: 30%;
+  background: #7028FF;
+  padding: 25px;
+  color: white;
+}
+
+.sidebar h1 {
+  margin-bottom: 5px;
+  color: white;
+}
+
+.sidebar a:link {
+  color: white;
+}
+
+.title {
+  font-size: 14px;
+  margin-bottom: 20px;
+}
+
+.main-content {
+  width: 70%;
+  padding: 30px;
+}
+
+.section {
+  margin-bottom: 20px;
+}
+
+h2 {
+  font-size: 16px;
+  border-bottom: 1px solid black;
+  margin-bottom: 10px;
+  text-transform: uppercase;
+}
+
+h4 {
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
+
+ul {
+  margin-left: 20px;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
